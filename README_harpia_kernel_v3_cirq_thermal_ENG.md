@@ -33,7 +33,7 @@ python harpia_kernel.py
 ### Scientific Reference & Community
 
 This project pushes the current boundaries of quantum computing. For technical debate, data analysis, and proof-of-concept discussions, join the research thread here:
-[LinkedIn Discussion Thread](https://www.linkedin.com/feed/update/urn:li:activity:7412648605796270080/?originTrackingId=Yz9g0KhGRfeMkf8U%2F1fMOg%3D%3D)
+[LinkedIn Discussion Thread](https://www.linkedin.com/company/harpia-quantum/)
 
 ### Safety and Ethics
 
