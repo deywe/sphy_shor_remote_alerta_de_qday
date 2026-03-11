@@ -35,7 +35,7 @@ python harpia_kernel.py
 ### Referência Científica e Comunidade
 
 Este projeto desafia os limites atuais da computação quântica. Para debates técnicos, análise de dados e provas de conceito, acompanhe as atualizações da comunidade:
-[Link de referência do LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7412648605796270080/?originTrackingId=Yz9g0KhGRfeMkf8U%2F1fMOg%3D%3D)
+[Link de referência do LinkedIn](https://www.linkedin.com/company/harpia-quantum/)
 
 ### Avisos de Segurança
 
