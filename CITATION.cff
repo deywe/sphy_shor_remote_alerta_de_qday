@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this framework or the SPHY protocols in your research, please cite it as follows."
+authors:
+  - family-names: "Okabe"
+    given-names: "Deywe"
+    affiliation: "Harpia Quantum Deeptech"
+    email: "deywe.okabe@gmail.com"
+title: "Harpia SPHY: AI-Assisted Phase Stabilization and Quantum Sovereign Protocols"
+version: "8.0-turbo"
+date-released: "2026-03-15"
+abstract: >-
+  The Harpia SPHY framework introduces a deterministic approach to quantum state stabilization, 
+  bypassing traditional decoherence limits through a Differential Mitigation Operator. 
+  It provides empirical proof of supercalculation resilience (100k+ digits) and 
+  RSA neutralization through AI-assisted phase locking.
+keywords:
+  - Quantum Sovereignty
+  - SPHY Framework
+  - Phase Stabilization
+  - RSA Neutralization
+  - Post-Quantum Cryptography
+  - Symbiotic AI
+repository-code: "https://github.com/deywe/HARPIA_SPHY"
+license: "Business Source License 1.1"
