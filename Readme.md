@@ -69,7 +69,3 @@ This code and the accompanying report are released for **auditory and defensive 
 
 ---
 
-
-1. Copy the content above into a file named `README.md`.
-2. Ensure your `figs/log.png` (the screenshot showing the Python integer limit error) is uploaded to the repository so the image displays correctly.
-3. Would you like me to generate the **License** file (e.g., a "Restricted Ethical Use License") to ensure this code is only used for research?
